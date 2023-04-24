@@ -1,6 +1,7 @@
 # Computer-Vision
 Projects of advanced computer vision and OpenCV
 # Project Name: Feature Tracking and Visual Odometery using SIFT, AKAZE and ORB in OpenCV and C++
+https://user-images.githubusercontent.com/13154919/233898909-1bc309e4-cb6a-4c12-a7ad-5c3da12ce70a.mp4
 
 ## Description
 Feature tracking and VO, PCL workflow:
@@ -21,7 +22,11 @@ Feature tracking and VO, PCL workflow:
    Enter 2 for ORB based Hamming matcher 
    Enter 3 for AKAZE based Hamming matcher output
 5. we will see video files based on your input preference
-if you entered 1 --> Task_1_sift_flann_boxtracking.avi, Task_2sift_flann_trajectory.avi, Task_2sift_flann_point_cloud.txt
+if you entered 1 --> Task_1_sift_flann_boxtracking.avi, Task_2sift_flann_trajectory
+
+
+
+.avi, Task_2sift_flann_point_cloud.txt
 if you entered 2 --> Task_1_orb_brutforce_Hamming_boxtracking.avi, Task_2orb_brutforce_Hamming_trajectory.avi, Task_2orb_brutforce_Hamming_point_cloud.txt
 if you entered 3 --> Task_1_akaze_brutforce_Hamming_boxtracking.avi, Task_2akaze_brutforce_Hamming_trajectory.avi, Task_2akaze_brutforce_Hamming_point_cloud.txt
 
