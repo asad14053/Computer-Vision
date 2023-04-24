@@ -22,13 +22,9 @@ Feature tracking and VO, PCL workflow:
    Enter 2 for ORB based Hamming matcher 
    Enter 3 for AKAZE based Hamming matcher output
 5. we will see video files based on your input preference
-if you entered 1 --> Task_1_sift_flann_boxtracking.avi, Task_2sift_flann_trajectory
-
-
-
-.avi, Task_2sift_flann_point_cloud.txt
-if you entered 2 --> Task_1_orb_brutforce_Hamming_boxtracking.avi, Task_2orb_brutforce_Hamming_trajectory.avi, Task_2orb_brutforce_Hamming_point_cloud.txt
-if you entered 3 --> Task_1_akaze_brutforce_Hamming_boxtracking.avi, Task_2akaze_brutforce_Hamming_trajectory.avi, Task_2akaze_brutforce_Hamming_point_cloud.txt
+-if you entered 1 --> Task_1_sift_flann_boxtracking.avi, Task_2sift_flann_trajectory.avi, Task_2sift_flann_point_cloud.txt
+-if you entered 2 --> Task_1_orb_brutforce_Hamming_boxtracking.avi, Task_2orb_brutforce_Hamming_trajectory.avi, Task_2orb_brutforce_Hamming_point_cloud.txt
+-if you entered 3 --> Task_1_akaze_brutforce_Hamming_boxtracking.avi, Task_2akaze_brutforce_Hamming_trajectory.avi, Task_2akaze_brutforce_Hamming_point_cloud.txt
 
 ## The generic details about the codes
 
@@ -42,7 +38,7 @@ if you entered 3 --> Task_1_akaze_brutforce_Hamming_boxtracking.avi, Task_2akaze
 
 5. The code assumes that the images are stored in a directory called "data" and that the filenames of the images follow a certain pattern (e.g., "000000.png", "000001.png", etc.). The code also assumes that the first image in the sequence is called "000000.png" and is stored in a directory called "first_200_right"/ "kitti_seq".
 
-##More details about Feature algorithms
+## More details about Feature algorithms
 
 1. SIFT, AKAZE, and ORB are feature extraction algorithms commonly used in computer vision and image processing applications. They all aim to identify distinctive features in images that can be used for various tasks such as image matching, object recognition, and tracking.
 
