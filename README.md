@@ -22,9 +22,9 @@ Feature tracking and VO, PCL workflow:
    Enter 2 for ORB based Hamming matcher 
    Enter 3 for AKAZE based Hamming matcher output
 5. we will see video files based on your input preference
--if you entered 1 --> Task_1_sift_flann_boxtracking.avi, Task_2sift_flann_trajectory.avi, Task_2sift_flann_point_cloud.txt
--if you entered 2 --> Task_1_orb_brutforce_Hamming_boxtracking.avi, Task_2orb_brutforce_Hamming_trajectory.avi, Task_2orb_brutforce_Hamming_point_cloud.txt
--if you entered 3 --> Task_1_akaze_brutforce_Hamming_boxtracking.avi, Task_2akaze_brutforce_Hamming_trajectory.avi, Task_2akaze_brutforce_Hamming_point_cloud.txt
+* if you entered 1 --> Task_1_sift_flann_boxtracking.avi, Task_2sift_flann_trajectory.avi, Task_2sift_flann_point_cloud.txt
+* if you entered 2 --> Task_1_orb_brutforce_Hamming_boxtracking.avi, Task_2orb_brutforce_Hamming_trajectory.avi, Task_2orb_brutforce_Hamming_point_cloud.txt
+* if you entered 3 --> Task_1_akaze_brutforce_Hamming_boxtracking.avi, Task_2akaze_brutforce_Hamming_trajectory.avi, Task_2akaze_brutforce_Hamming_point_cloud.txt
 
 ## The generic details about the codes
 
